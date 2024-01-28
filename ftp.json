@@ -1,0 +1,16 @@
+{
+    "comment": "外网FTP/SFTP服务器地址",
+    "outer_host": "192.168.0.1",
+    "comment": "内网FTP/SFTP服务器地址",
+    "inner_host": "192.168.0.2",
+    "comment": "服务器端口，22表示使用SFTP协议，21表示使用FTP协议",
+    "port": 22,
+    "comment": "用户名",
+    "username": "",
+    "comment": "密码",
+    "password": "",
+    "comment": "外网服务器文件路径",
+    "outer_path": "/Outer",
+    "comment": "内网服务器文件路径",
+    "inner_path": "/Inner"
+}
